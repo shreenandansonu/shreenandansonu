@@ -3,6 +3,6 @@
 
 ## 🚀 Shreenandan
 👋 Hi,
-     I am a prefinal year student of BIOMEDICAL engineering student at NIT-Rourkela.
+     I am a prefinal year student of CLinical engineering student at IIT-Madras.
 
-👀 I am interrested in web Development and designing.
+👀 I am interrested in medical device development and building startup.
