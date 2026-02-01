@@ -1,8 +1,6 @@
 ![App Screenshot](https://github.com/shreenandansonu/shreenandansonu/blob/main/twitter.png?raw=true)
 
 
-## 🚀 Shreenandan
-👋 Hi,
-     I am a 2nd year  CLinical engineering student at IIT-Madras.
+# 👋 Hi, I am Shreenandan
 
 👀 I am interrested in medical device development and building startup.
